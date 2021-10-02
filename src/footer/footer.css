@@ -1,0 +1,7 @@
+.footer{
+     background-color: aqua;
+
+     position: relative;
+     bottom: 0;
+     max-height: min-content;
+}
